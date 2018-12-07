@@ -22,7 +22,6 @@ n_epochs = 200 # 学習全体をこのエポック数で区切り、区切りご
 n_hidden1=     # 隠れ層1のユニットの数
 n_hidden2=
 n_inputs=          # 与える変数の数
-n_classes=
 n_outputs=
 
 data=np.loadtxt("input.csv",delimiter=",",dtype="float")#入力変数
