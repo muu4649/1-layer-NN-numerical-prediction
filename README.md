@@ -1,8 +1,9 @@
-# 1-layer-NN-numerical-prediction
+# 1-layer-NN-numerical-prediction & optuna test program
 
 ・できること
 
 TensorFlowを用いたニューラルネットワークで数値予測ができる。
++optunaでのテストプログラム
 
 ・必要環境
 
